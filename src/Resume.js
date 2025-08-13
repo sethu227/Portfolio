@@ -24,7 +24,7 @@ const Resume = () => (
           <ul className="list-unstyled mb-0">
             <li className="mb-2">Web Development Intern @ Notasco Technologies (May–June 2024) — Built Matrimony website using MERN</li>
             <li className="mb-2">President @ IEEE ComSoc Student Chapter</li>
-            <li className="mb-2">Finalist @ Nation Level IBM ICE Hackathon 2025, S-VYASA University, Bangalore</li>
+            <li className="mb-2">Finalist @ National Level IBM ICE Hackathon 2025, S-VYASA University, Bangalore</li>
             <li>Final Round Participant – IEEE RAS Robotic Car Showcase</li>
           </ul>
         </div>
