@@ -15,7 +15,7 @@ const About = () => (
             <img src={profileImg} alt="Profile" className="rounded-circle border border-3 border-primary" style={{ width: 120, height: 120, objectFit: 'cover' }} />
             <div>
               <p className="mb-0 fs-5 text-secondary">
-                MERN stack developer with experience at Notasco Technologies. President of IEEE ComSoc Student Chapter. Strong in C, Python, Java, and IoT development. Multiple award winner with IEEE publication.
+                MERN stack developer with experience at Notasco Technologies. President of IEEE ComSoc Student Chapter. Strong in sql, Python, Java, and IoT development. Multiple award winner with IEEE publication.
               </p>
             </div>
           </div>
