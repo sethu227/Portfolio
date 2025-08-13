@@ -1,5 +1,4 @@
 import React from 'react';
-
 const Resume = () => (
   <section id="resume" className="py-5 d-flex justify-content-center bg-light">
     <div className="bg-white rounded-4 shadow-lg p-4 p-md-5 w-100" style={{ maxWidth: 900 }}>
@@ -25,6 +24,7 @@ const Resume = () => (
           <ul className="list-unstyled mb-0">
             <li className="mb-2">Web Development Intern @ Notasco Technologies (May–June 2024) — Built Matrimony website using MERN</li>
             <li className="mb-2">President @ IEEE ComSoc Student Chapter</li>
+            <li className="mb-2">Finalist @ Nation Level IBM ICE Hackathon 2025, S-VYASA University, Bangalore</li>
             <li>Final Round Participant – IEEE RAS Robotic Car Showcase</li>
           </ul>
         </div>
@@ -43,5 +43,4 @@ const Resume = () => (
     </div>
   </section>
 );
-
-export default Resume; 
+export default Resume;
