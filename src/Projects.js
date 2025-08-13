@@ -1,7 +1,11 @@
 import React from 'react';
 import { FaProjectDiagram } from 'react-icons/fa';
-
 const projects = [
+  {
+    title: 'Apps and Files Manager',
+    tech: 'Java + Spring Boot + SSDEEP',
+    desc: 'Intelligent file management with SHA-256 and SSDEEP duplicate detection algorithms and web UI for system optimization.'
+  },
   {
     title: 'Gas Emission Monitoring System',
     tech: 'MERN + IoT',
@@ -28,7 +32,6 @@ const projects = [
     desc: 'IoT + WSN solution for elderly care (IEEE Publication).'
   }
 ];
-
 const Projects = () => (
   <section id="projects" className="py-5 bg-white position-relative">
     <div className="container py-4">
@@ -53,5 +56,4 @@ const Projects = () => (
     <div className="section-divider bg-gradient-primary position-absolute top-0 start-0 w-100" style={{ height: 6 }}></div>
   </section>
 );
-
-export default Projects; 
+export default Projects;
