@@ -1,12 +1,10 @@
 import React from 'react';
 import { FaCode, FaDatabase, FaMicrochip } from 'react-icons/fa';
-
 const skills = [
-  { category: 'Programming', icon: <FaCode className="me-2 text-primary" />, items: ['C', 'Python', 'Java', 'JavaScript'] },
+  { category: 'Programming', icon: <FaCode className="me-2 text-primary" />, items: ['SQL', 'Python', 'Java', 'JavaScript'] },
   { category: 'Web', icon: <FaDatabase className="me-2 text-success" />, items: ['MongoDB', 'Express', 'React', 'Node.js (MERN)'] },
   { category: 'Specializations', icon: <FaMicrochip className="me-2 text-info" />, items: ['IoT Solutions', 'AI/ML Integration'] },
 ];
-
 const Skills = () => (
   <section id="skills" className="py-5 bg-white position-relative">
     <div className="container py-4">
@@ -36,5 +34,4 @@ const Skills = () => (
     <div className="section-divider bg-gradient-primary position-absolute top-0 start-0 w-100" style={{ height: 6 }}></div>
   </section>
 );
-
-export default Skills; 
+export default Skills;
