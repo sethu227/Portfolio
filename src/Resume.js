@@ -87,7 +87,7 @@ const Resume = () => (
             <li className="mb-2">🏅 4th Place – Dora Hacks Hackathon, Goa</li>
             <li className="mb-2">🏅 4th Prize – Prajnotsavah 2k24 Project Expo</li>
             <li className="mb-2">🔧 EXCEL Team Member – Developed Raspberry Pi 3 camera solution for partial blindness with Purdue EPICS</li>
-            <li className="mb-2">🎖️ Merit Holder – Top Performer in CSE (IoT) Stream</li>
+            <li className="mb-2">🎖️ 1st Merit Holder – Top Performer in CSE (IoT) Stream</li>
           </ul>
         </div>
       </div>
